@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://storage.googleapis.com/kaggle-datasets-images/10074547/15724359/c9f62588cfe1713b0398d714166a0de1/dataset-cover.jpg?t=2026-04-14-05-41-39" width="100%" alt="Ember Global Electricity Data Banner"/>
+  <img width="794" height="400" alt="image" src="https://github.com/user-attachments/assets/9135e57e-d821-4306-a10e-d30c02ec5acf" />
 </p>
 
 <h1 align="center">⚡ Ember Global Electricity Data</h1>

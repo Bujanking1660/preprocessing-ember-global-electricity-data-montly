@@ -164,6 +164,3 @@ Dataset diambil dari **Kaggle**:
 
 ---
 
-<p align="center">
-  <sub>Made with ❤️ for Data Preprocessing</sub>
-</p>
